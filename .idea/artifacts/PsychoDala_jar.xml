@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PsychoDala:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PsychoDala_jar</output-path>
+    <root id="archive" name="PsychoDala.jar">
+      <element id="module-output" name="PsychoDala" />
+    </root>
+  </artifact>
+</component>
